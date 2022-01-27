@@ -19,7 +19,7 @@ Also, it does not need the last frame key and values unlike STM and only depends
 
 
 
-## tasks definitions
+## Tasks definitions
 
 * The **first** task of the project is to replicate some of the results from the paper at the inference time,by using authors’ implementation.
 * The **second** task of the project is to verify performance on Something-Something dataset which was not used in original paper.
