@@ -18,6 +18,6 @@ STCN (Space Time Correspondence Network) is simpler, more efficient and faster t
 * The **final** task is to use one of the existing image segmentation approaches for the initialization of the video segmentation method and compare it to manual annotation results. In this part we tested with Mask-RCNN, Detectron 2 PointRend and LOST+CRF methods
 
 ## results
-![Alt Text](https://ibb.co/F68KwWw"><img src="https://i.ibb.co/H7GVz2z/bmx-trees.gif)
+![Alt Text](https://i.ibb.co/H7GVz2z/bmx-trees.gif)
 
 #References
