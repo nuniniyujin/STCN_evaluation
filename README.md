@@ -19,6 +19,7 @@ Also, it does not need the last frame key and values unlike STM and only depends
 * The **final** task is to use one of the existing image segmentation approaches for the initialization of the video segmentation method and compare it to manual annotation results. In this part we tested with Mask-RCNN, Detectron 2 PointRend and LOST+CRF methods
 
 ## results
+More results are accessible at : https://bit.ly/32mezrQ
 
 * LOST + CRF
 <br />![Alt Text](https://media.giphy.com/media/UsPALjbeJwppExZ9T6/giphy.gif)
@@ -31,6 +32,7 @@ Also, it does not need the last frame key and values unlike STM and only depends
 
 
 ## References
+
 <br />[1] https://hkchengrex.github.io/STCN/
 <br />[2] https://github.com/joaanna/something_else
 <br />[3] https://github.com/matterport/Mask_RCNN
