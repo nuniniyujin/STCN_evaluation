@@ -1,3 +1,10 @@
+# MVA RecVis 2021
+* This project is done at MVA Object recognition classs 2021-2022
+
+Team member
+* Yujin Cho : yujin.cho@ens-paris-saclay.fr
+* Angelika Ando : angelika.ando@ens-paris-saclay.fr
+
 # STCN_evaluation
 
 STCN (Space Time Correspondence Network) is simpler, more efficient and faster than STM (Space-Time Network), which was introduced in 2019. 
