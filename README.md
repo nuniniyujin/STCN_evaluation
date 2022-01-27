@@ -3,7 +3,7 @@
 STCN (Space Time Correspondence Network) is simpler, more efficient and faster than STM (Space-Time Network), which was introduced in 2019. 
 <br /> **Figure 1** shows the architecture of STCN. A new video frame named query and memory will pass through a key encoder and provide key data.
 Each new video frame, also named query, passes through a key encoder to construct an affinity matrix between the query and the memory keys.
-<br />The affinity matrix, based on the negative L2 distance, captures the correspondences between objects.
+The affinity matrix, based on the negative L2 distance, captures the correspondences between objects.
 <br />STCN uses only one affinity matrix to gain memory and computation efficiency unlike STM. For encoders, STCN has a lighter network than STM.
 At the final stage of decoding, STCN generates the new masks. 
 Also, it does not need the last frame key and values unlike STM and only depends on the affinity matrix. Thus, it allows to have a better memory efficiency. 
