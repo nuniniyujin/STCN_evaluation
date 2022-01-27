@@ -20,13 +20,13 @@ STCN (Space Time Correspondence Network) is simpler, more efficient and faster t
 ## results
 
 * LOST + CRF
-![Alt Text](https://media.giphy.com/media/UsPALjbeJwppExZ9T6/giphy.gif)
+<br />![Alt Text](https://media.giphy.com/media/UsPALjbeJwppExZ9T6/giphy.gif)
 
 * Mask R-CNN
-![Alt Text](https://media.giphy.com/media/lDBj61kILs19YEwHbd/giphy.gif)
+<br />![Alt Text](https://media.giphy.com/media/lDBj61kILs19YEwHbd/giphy.gif)
 
 * Pointrend
-![Alt Text](https://media.giphy.com/media/YiSfEuwyva2DM6Xx5S/giphy.gif)
+<br />![Alt Text](https://media.giphy.com/media/JYdMfSmUeLXSdiZJ5h/giphy.gif)
 
 
 #References
