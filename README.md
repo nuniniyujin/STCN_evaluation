@@ -18,7 +18,7 @@ Also, it does not need the last frame key and values unlike STM and only depends
 * The **second** task of the project is to verify performance on Something-Something dataset which was not used in original paper.
 * The **final** task is to use one of the existing image segmentation approaches for the initialization of the video segmentation method and compare it to manual annotation results. In this part we tested with Mask-RCNN, Detectron 2 PointRend and LOST+CRF methods
 
-## results
+## Results
 More results are accessible at : https://bit.ly/32mezrQ
 
 * LOST + CRF
