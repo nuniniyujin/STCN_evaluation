@@ -30,19 +30,19 @@ STCN (Space Time Correspondence Network) is simpler, more efficient and faster t
 
 
 ## References
-<br />https://hkchengrex.github.io/STCN/
-<br />https://github.com/joaanna/something_else
-<br />https://github.com/matterport/Mask_RCNN
-<br />https://github.com/facebookresearch/detectron2/tree/main/projects/PointRend
-<br />https://github.com/valeoai/LOST
-<br />https://github.com/lucasb-eyer/pydensecrf
-<br />https://github.com/davisvideochallenge/davis2017-evaluation
-<br />M.  Caron,  H.  Touvron,  I.  Misra,  H.  J ́egou,  J.  Mairal,  P.  Bo-janowski, and A. Joulin.  Emerging properties in self-supervisedvision transformers.arXiv preprint arXiv:2104.14294, 2021.
-<br />H. K. Cheng, Y.-W. Tai, and C.-K. Tang.  Rethinking space-timenetworks with improved memory coverage for efficient video ob-ject segmentation. InNeurIPS, 2021.
-<br />R.   Goyal,   S.   Ebrahimi   Kahou,   V.   Michalski,   J.   Materzyn-ska,  S.  Westphal,  H.  Kim,  V.  Haenel,  I.  Fruend,  P.  Yianilos,M.  Mueller-Freitag,  et  al.The  ”something  something”  videodatabase for learning and evaluating visual common sense. InPro-ceedings of the IEEE international conference on computer vision,pages 5842–5850, 2017.
-<br />K. He, G. Gkioxari, P. Doll ́ar, and R. Girshick.  Mask r-cnn.  InProceedings  of  the  IEEE  international  conference  on  computervision, pages 2961–2969, 2017.
-<br />A. Kirillov,  Y. Wu,  K. He,  and R. Girshick.   Pointrend:  Imagesegmentation as rendering. InProceedings of the IEEE/CVF con-ference on computer vision and pattern recognition, pages 9799–9808, 2020.
-<br />P.  Kr ̈ahenb ̈uhl  and  V.  Koltun.   Efficient  inference  in  fully  con-nected crfs with gaussian edge potentials.Advances in neural in-formation processing systems, 24:109–117, 2011.
-J. Materzynska, T. Xiao, R. Herzig, H. Xu, X. Wang, and T. Dar-rell.Something-else:   Compositional  action  recognition  withspatial-temporal  interaction  networks.InProceedings  of  theIEEE/CVF Conference on Computer Vision and Pattern Recog-nition, pages 1049–1059, 2020.
-S. W. Oh, J.-Y. Lee, N. Xu, and S. J. Kim.  Video object segmen-tation using space-time memory networks.  InProceedings of theIEEE/CVF International Conference on Computer Vision, pages9226–9235, 2019.
-O.  Sim ́eoni,  G.  Puy,  H.  V.  Vo,  S.  Roburin,  S.  Gidaris,  A.  Bur-suc,  P.  P ́erez,  R.  Marlet,  and  J.  Ponce.Localizing  objectswith self-supervised transformers and no labels.arXiv preprintarXiv:2109.14279, 2021.
+<br />[1] https://hkchengrex.github.io/STCN/
+<br />[2] https://github.com/joaanna/something_else
+<br />[3] https://github.com/matterport/Mask_RCNN
+<br />[4] https://github.com/facebookresearch/detectron2/tree/main/projects/PointRend
+<br />[5] https://github.com/valeoai/LOST
+<br />[6] https://github.com/lucasb-eyer/pydensecrf
+<br />[7] https://github.com/davisvideochallenge/davis2017-evaluation
+<br />[8] M.  Caron,  H.  Touvron,  I.  Misra,  H.  J ́egou,  J.  Mairal,  P.  Bo-janowski, and A. Joulin.  Emerging properties in self-supervisedvision transformers.arXiv preprint arXiv:2104.14294, 2021.
+<br />[9] H. K. Cheng, Y.-W. Tai, and C.-K. Tang.  Rethinking space-timenetworks with improved memory coverage for efficient video ob-ject segmentation. InNeurIPS, 2021.
+<br />[10] R.   Goyal,   S.   Ebrahimi   Kahou,   V.   Michalski,   J.   Materzyn-ska,  S.  Westphal,  H.  Kim,  V.  Haenel,  I.  Fruend,  P.  Yianilos,M.  Mueller-Freitag,  et  al.The  ”something  something”  videodatabase for learning and evaluating visual common sense. InPro-ceedings of the IEEE international conference on computer vision,pages 5842–5850, 2017.
+<br />[11] K. He, G. Gkioxari, P. Doll ́ar, and R. Girshick.  Mask r-cnn.  InProceedings  of  the  IEEE  international  conference  on  computervision, pages 2961–2969, 2017.
+<br />[12] A. Kirillov,  Y. Wu,  K. He,  and R. Girshick.   Pointrend:  Imagesegmentation as rendering. InProceedings of the IEEE/CVF con-ference on computer vision and pattern recognition, pages 9799–9808, 2020.
+<br />[13] P.  Kr ̈ahenb ̈uhl  and  V.  Koltun.   Efficient  inference  in  fully  con-nected crfs with gaussian edge potentials.Advances in neural in-formation processing systems, 24:109–117, 2011.
+<br />[14] J. Materzynska, T. Xiao, R. Herzig, H. Xu, X. Wang, and T. Dar-rell.Something-else:   Compositional  action  recognition  withspatial-temporal  interaction  networks.InProceedings  of  theIEEE/CVF Conference on Computer Vision and Pattern Recog-nition, pages 1049–1059, 2020.
+<br />[15] S. W. Oh, J.-Y. Lee, N. Xu, and S. J. Kim.  Video object segmen-tation using space-time memory networks.  InProceedings of theIEEE/CVF International Conference on Computer Vision, pages9226–9235, 2019.
+<br />[16] O.  Sim ́eoni,  G.  Puy,  H.  V.  Vo,  S.  Roburin,  S.  Gidaris,  A.  Bur-suc,  P.  P ́erez,  R.  Marlet,  and  J.  Ponce.Localizing  objectswith self-supervised transformers and no labels.arXiv preprintarXiv:2109.14279, 2021.
