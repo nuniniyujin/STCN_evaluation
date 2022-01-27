@@ -13,10 +13,11 @@ STCN (Space Time Correspondence Network) is simpler, more efficient and faster t
 
 ## tasks definitions
 
-<br />The **first** task of the project is to replicate some of the results from the paper at the inference time,by using authors’ implementation.
-<br />The **second** task of the project is to verify performance on Something-Something dataset which was not used in original paper.
-<br />The **final** task is to use one of the existing image segmentation approaches for the initialization of the video segmentation method and compare it to manual annotation results. In this part we tested with Mask-RCNN, Detectron 2 PointRend and LOST+CRF methods
+*The **first** task of the project is to replicate some of the results from the paper at the inference time,by using authors’ implementation.
+*The **second** task of the project is to verify performance on Something-Something dataset which was not used in original paper.
+*The **final** task is to use one of the existing image segmentation approaches for the initialization of the video segmentation method and compare it to manual annotation results. In this part we tested with Mask-RCNN, Detectron 2 PointRend and LOST+CRF methods
 
-
+## results
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 #References
