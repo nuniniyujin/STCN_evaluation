@@ -18,7 +18,6 @@ Also, it does not need the last frame key and values unlike STM and only depends
 ![image](https://user-images.githubusercontent.com/80272042/151395512-eb7bc0e2-0431-4f75-9bbc-0baff08fe4c8.png)
 
 
-
 ## Tasks definitions
 
 * The **first** task of the project is to replicate some of the results from the paper at the inference time, by using the authors’ implementation.
