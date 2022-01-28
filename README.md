@@ -1,5 +1,5 @@
 # MVA RecVis 2021
-* This project is done at MVA Object recognition classs 2021-2022
+* This project is done for the MVA Object recognition class 2021-2022.
 
 Team members
 * Yujin Cho : yujin.cho@ens-paris-saclay.fr
