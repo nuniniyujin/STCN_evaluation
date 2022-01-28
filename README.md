@@ -21,9 +21,9 @@ Also, it does not need the last frame key and values unlike STM and only depends
 
 ## Tasks definitions
 
-* The **first** task of the project is to replicate some of the results from the paper at the inference time,by using authors’ implementation.
-* The **second** task of the project is to verify performance on Something-Something dataset which was not used in original paper.
-* The **final** task is to use one of the existing image segmentation approaches for the initialization of the video segmentation method and compare it to manual annotation results. In this part we tested with Mask-RCNN, Detectron 2 PointRend and LOST+CRF methods
+* The **first** task of the project is to replicate some of the results from the paper at the inference time, by using the authors’ implementation.
+* The **second** task of the project is to verify performance on the Something-Something dataset which was not used in the original paper.
+* The **final** task is to use one of the existing image segmentation approaches for the initialization of the video segmentation method and compare it to manual annotation results. In this part, we tested with Mask-RCNN, Detectron 2 PointRend and LOST+CRF methods.
 
 ## Results
 More results are accessible at : https://bit.ly/32mezrQ
